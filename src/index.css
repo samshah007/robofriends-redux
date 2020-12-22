@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(231,231,240,1) 56%, rgba(129,165,172,1) 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h1{
+  font-family: 'Righteous', cursive;
+  text-transform: uppercase;
+  color: rgb(28, 36, 36);
+  font-size: 3em !important;
 }
